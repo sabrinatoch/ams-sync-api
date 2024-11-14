@@ -1,9 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>d60947c8-ca23-4edc-8677-3f255dbeb879</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -23,6 +24,15 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Users\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Users\Delete.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Users\Details.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Users\Edit.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Users\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\Shared\_ValidationScriptsPartial.cshtml" />
   </ItemGroup>
 
 </Project>

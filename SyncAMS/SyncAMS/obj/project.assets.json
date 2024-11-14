@@ -8200,19 +8200,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\2056856\\.nuget\\packages\\": {}
+    "C:\\Users\\dylan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2056856\\Desktop\\SyncAMS\\SyncAMS\\SyncAMS.csproj",
+      "projectUniqueName": "C:\\Users\\dylan\\OneDrive\\Desktop\\ams-sync-api\\SyncAMS\\SyncAMS\\SyncAMS.csproj",
       "projectName": "SyncAMS",
-      "projectPath": "C:\\Users\\2056856\\Desktop\\SyncAMS\\SyncAMS\\SyncAMS.csproj",
-      "packagesPath": "C:\\Users\\2056856\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2056856\\Desktop\\SyncAMS\\SyncAMS\\obj\\",
+      "projectPath": "C:\\Users\\dylan\\OneDrive\\Desktop\\ams-sync-api\\SyncAMS\\SyncAMS\\SyncAMS.csproj",
+      "packagesPath": "C:\\Users\\dylan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dylan\\OneDrive\\Desktop\\ams-sync-api\\SyncAMS\\SyncAMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\2056856\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dylan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8292,7 +8292,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
